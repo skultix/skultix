@@ -26,14 +26,6 @@ I love climbing 🧗 and coding 💻
         <img src="https://skillicons.dev/icons?i=lua">
     </a>
 </div>
-<div align=center> <!-- IDEs -->
-    <a href="https://github.com/skultix/nvim">
-        <img src="https://skillicons.dev/icons?i=neovim">
-    </a>
-    <img src="https://skillicons.dev/icons?i=vscode">
-<!--     <img src="https://skillicons.dev/icons?i=idea"> -->
-    <img src="https://skillicons.dev/icons?i=androidstudio">
-</div>
 <div align=center> <!-- Github/Gitlab -->
     <a href="https://github.com/skultix">
         <img src="https://skillicons.dev/icons?i=github">
@@ -41,6 +33,14 @@ I love climbing 🧗 and coding 💻
     <a href="https://gitlab.com/skultix">
         <img src="https://skillicons.dev/icons?i=gitlab">
     </a>
+</div>
+<div align=center> <!-- IDEs -->
+    <a href="https://github.com/skultix/nvim">
+        <img src="https://skillicons.dev/icons?i=neovim">
+    </a>
+    <!-- <img src="https://skillicons.dev/icons?i=vscode"> -->
+<!--     <img src="https://skillicons.dev/icons?i=idea"> -->
+    <!-- <img src="https://skillicons.dev/icons?i=androidstudio"> -->
 </div>
 
 <!-- Socials -->
